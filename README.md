@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML/CSS/JavaScript/Python/C++
 - 💞️ I’m looking to collaborate on Anything Available...
-- 📫 How to reach me IG- s_kawre_
+- 📫 How to reach me IG- s__kawre
 
 <!---
 skawre/skawre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
