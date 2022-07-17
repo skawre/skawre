@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skawre
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML/CSS/JavaScript/Python/C++
+- 🌱 I’m currently learning HTML/CSS/JavaScript/Python/C++/ReactJS
 - 💞️ I’m looking to collaborate on Anything Available...
 - 📫 How to reach me IG- s__kawre
 
